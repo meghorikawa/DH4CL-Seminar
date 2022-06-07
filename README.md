@@ -1,5 +1,5 @@
-# DH4CL-Seminar
-This is my project for my Digital Humanities/Computational Linguistics Seminar
+# DH4CL-Seminar Project
+This is my final project for my Digital Humanities/Computational Linguistics Seminar 
 
 Intro: 
 
